@@ -1077,6 +1077,7 @@ dependencies = [
  "macroquad",
  "nalgebra 0.29.0",
  "num",
+ "rand",
  "statrs",
 ]
 
